@@ -27,4 +27,4 @@
 * GPIO pin configuration, including setting pins as input or output and controlling their state
 
 
-> This lab followed the steps from [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1) and [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2) folders from the [IoT)](https://github.com/kevinwlu/iot) repository
+> This lab followed the steps from [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1) and [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2) folders from the [IoT](https://github.com/kevinwlu/iot) repository
