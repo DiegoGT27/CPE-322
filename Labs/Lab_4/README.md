@@ -1,7 +1,7 @@
 # Lab 4 - Django and Flask
 
 ## Procedure
-* Study Lessons 4
+* Study Lesson 4
 * Install Django and Django REST framework
 * Use the default database, i.e., SQLite
 * Start Django project "stevens," run server, and view app 

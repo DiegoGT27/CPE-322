@@ -1,7 +1,7 @@
 # Lab 3 - Python
 
 ## Procedure
-* Study Lessons 3
+* Study Lesson 3
 * Install required Python packages such as jdcal, astral, and geopy
 
 ## Results
