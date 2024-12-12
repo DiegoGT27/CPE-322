@@ -10,7 +10,7 @@
 ## Results
 **Google Sheets**
 
-![LAB7](Lab_7-CPE322.png)
+![LAB7](Lab_7.png)
 
 ## Things learned
 * Understanding of cloud infrastructure and operations
