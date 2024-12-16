@@ -8,6 +8,10 @@
 * Run cpu_spreadsheet.py with the JSON key file in a demo folder
 
 ## Results
+**ThingSpeak**
+
+![TS](thingspeak_LAB7.png)
+
 **Google Sheets**
 
 ![LAB7](Lab_7.png)
